@@ -1,0 +1,4 @@
+baseURL = 'http://example.org/'
+languageCode = 'zh-Hans'
+title = '新雨果页面'
+theme = 'ananke'
